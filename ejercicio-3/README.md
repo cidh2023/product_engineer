@@ -18,7 +18,7 @@
 - **URL funcionando:** publicada como página web de Claude (archivo único `publicar/banco-de-alimentos.html`). Es privada hasta que se comparta desde el menú *Share* de la página.
 - **Alternativa con dominio propio (gratis):** la app es estática. Opciones:
   - *Netlify Drop:* arrastra la carpeta `app/` a https://app.netlify.com/drop.
-  - *GitHub Pages:* Settings → Pages → rama `main`, carpeta `/ejercicio-3/app`.
+  - *GitHub Pages:* la app ya está copiada en `docs/`. Settings → Pages → *Deploy from a branch* → rama `main`, carpeta `/docs`. URL: https://cidh2023.github.io/product_engineer/ (si cambias `ejercicio-3/app/`, copia los 3 archivos de nuevo a `docs/`).
   - *Vercel:* importar el repo con *Root Directory* `ejercicio-3/app` (sin build).
 
 ## Formulario (Tarea 3)
